@@ -1,7 +1,7 @@
 # City of Vancouver Data Analytics Portfolio
 
 ![AWS](https://img.shields.io/badge/Built%20With-AWS-orange?logo=amazon-aws&logoColor=white)
-![Project Type](https://img.shields.io/badge/Type-Data%20Engineering-blue)
+![Project Type](https://img.shields.io/badge/Type-Analyize%20Data-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > This project analyzes 16 years of employee remuneration and expense data from the City of Vancouver using AWS cloud tools such as S3, Glue, Athena, and DataBrew. It demonstrates a full serverless data engineering workflow including ingestion, cleaning, cataloging, querying, and monitoring.
